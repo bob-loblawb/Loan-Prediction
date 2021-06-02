@@ -1,2 +1,3 @@
 # Loan-Prediction
-The aim is to build a predictive model to find the loan eligibilty of a person the data used is in train.csv and tested in test.csv
+The aim is to build a predictive model to find the loan eligibilty of a person the data used is in train.csv and model is tested using test.csv 
+mysub1,mysub2 and mysub3 are the prediction on test.csv using three different models logitic regression,decision tree classifier and random forest regressor
